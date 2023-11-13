@@ -25,7 +25,7 @@ spec:
 apiVersion: backstage.io/v1alpha1
 kind: API
 metadata:
-  name: wayback-search-copy
+  name: wayback-search-teamc-copy
   description: Search API for the wayback copy machine
 spec:
   type: openapi
